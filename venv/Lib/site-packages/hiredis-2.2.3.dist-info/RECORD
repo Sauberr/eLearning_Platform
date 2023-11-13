@@ -1,0 +1,13 @@
+hiredis-2.2.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+hiredis-2.2.3.dist-info/LICENSE,sha256=8LaZVtObPHPm4Fsuim5rSzNNFZY10vZfYO6yHBhVD1o,1599
+hiredis-2.2.3.dist-info/METADATA,sha256=BPEAmThUf6S5KcypBS5wJbsn8afRiFucnA454c6HvEQ,6699
+hiredis-2.2.3.dist-info/RECORD,,
+hiredis-2.2.3.dist-info/WHEEL,sha256=TxwUeV-3HEbjjXVQ7qnUZIKQ4IinhZYV_rmkwq84M_Y,102
+hiredis-2.2.3.dist-info/top_level.txt,sha256=P_zCKMUoKFNyPXKK3aYI6FeuETe2dcDLC1zsr3scogI,8
+hiredis/__init__.py,sha256=kLq-dmMt20dRSY8U5fIKCUEWzOVCHESODhQ5vj01Epk,239
+hiredis/__pycache__/__init__.cpython-311.pyc,,
+hiredis/__pycache__/version.cpython-311.pyc,,
+hiredis/hiredis.cp311-win_amd64.pyd,sha256=JR6lnBJSbBeFYBk0J6BP2Qob9bP0ZZgy0E0WEgqUEjY,31232
+hiredis/hiredis.pyi,sha256=YY5kijkh9-Jw7zffHmiOXH_eGDGDvUtWkYtiFpcbF28,1036
+hiredis/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hiredis/version.py,sha256=lS16UHoFrJHwn-ETmib2lV3q5O0KKJiLd--uL5gukrc,23
