@@ -1,7 +1,7 @@
 import requests
 
-username = 'sauberr'
-password = 'fox200wex'
+username = ''
+password = ''
 
 base_url = 'http://127.0.0.1:8000/api/'
 
