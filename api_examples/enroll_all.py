@@ -1,7 +1,7 @@
 import requests
 
-username = ''
-password = ''
+username = 'your_username'
+password = 'password'
 
 base_url = 'http://127.0.0.1:8000/api/'
 
