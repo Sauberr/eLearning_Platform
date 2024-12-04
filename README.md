@@ -1,5 +1,6 @@
 # eLearning Platform
-The project for study Django.
+
+This project delivers a mini eLearning platform like Udemy, built with Django and Django 4.2 Channels, empowering users to create, enroll in, and manage online courses. Leveraging technologies like Docker for easy deployment and scalability, PostgreSQL for robust data management, Redis for enhanced performance through caching, and Django Channels for real-time interactivity, this platform provides a foundation for building interactive and engaging learning experiences.
 
 #### Stack:
 
