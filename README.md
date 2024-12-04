@@ -1,6 +1,6 @@
 # eLearning Platform
 
-This project delivers a mini eLearning platform like Udemy, built with Django and Django 4.2 Channels, empowering users to create, enroll in, and manage online courses. Leveraging technologies like Docker for easy deployment and scalability, PostgreSQL for robust data management, Redis for enhanced performance through caching, and Django Channels for real-time interactivity, this platform provides a foundation for building interactive and engaging learning experiences.
+This project delivers a mini eLearning platform like Udemy, built with Django 4.2 and Django Channels, empowering users to create, enroll in, and manage online courses.  Leveraging technologies like Docker for easy deployment and scalability, PostgreSQL for robust data management, Redis for enhanced performance through caching, and Django Channels for real-time interactivity, including a chat feature for course participants to engage in discussions, this platform provides a foundation for building interactive and engaging learning experiences.  Nginx is also utilized as a reverse proxy to handle static files efficiently and improve overall performance.
 
 #### Stack:
 
